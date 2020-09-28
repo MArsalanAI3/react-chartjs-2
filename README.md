@@ -10,7 +10,7 @@
 React wrapper for [Chart.js 2](http://www.chartjs.org/docs/#getting-started)
 Open for PRs and contributions!
 
-# UPDATE to 2.x
+# UPDATE to 2.x.
 As of 2.x we have made chart.js a peer dependency for greater flexibility. Please add chart.js as a dependency on your project to use 2.x. Currently, 2.5.x is the recommended version of chart.js to use.
 
 ## Demo & Examples
